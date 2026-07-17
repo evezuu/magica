@@ -23,3 +23,8 @@ In the future, I will take care to acknowledge the time-constraints we have. Thi
 Initially added (later removed because we couldn't get it to work ;-;)
 - BMI160 IMU 
 - 12mm Push Button
+
+## Wiring
+
+<img width="432" height="1230" alt="wokwi 2 gahh" src="https://github.com/user-attachments/assets/078cd547-1bb8-49df-aa17-24ed6163d370" />
+
