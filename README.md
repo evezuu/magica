@@ -29,6 +29,7 @@ how did we pull an all nighter making a wand that barely works? (･ω･)b i do
 <img width="200" height="251" alt="wokwi copy" src="https://github.com/user-attachments/assets/e9036f90-599e-40e4-9701-1d23c33f0bd5" />
 <br/>
 <img width="100" height="285" alt="wokwi 2 gahh" src="https://github.com/user-attachments/assets/28181d82-24ed-4502-98e9-52761339bbb8" />
+<br/>
 <img width="200" height="267" alt="IMG_1107" src="https://github.com/user-attachments/assets/ebc39baf-3248-4ce5-bfc9-7f3b26f24b5e" />
 
 Unfortunately, even after working for several hours straight, we were unable to get the BMIs working so we ditched the motion tracking and went with a simpler idea. We did ask a lot of people for help with it, but they were unable to make them work too. Because of severe time constraints, we had to rush the wiring for the other components of our proejcts (we wanted to add LEDs and a button). However, we were pretty inexperienced and we accidentally wired out items wrong, causing the project to fail.
