@@ -26,5 +26,10 @@ Initially added (later removed because we couldn't get it to work ;-;)
 
 ## Wiring
 
-<img width="432" height="1230" alt="wokwi 2 gahh" src="https://github.com/user-attachments/assets/078cd547-1bb8-49df-aa17-24ed6163d370" />
+<img width="300" height="854" alt="wokwi 2 gahh" src="https://github.com/user-attachments/assets/28181d82-24ed-4502-98e9-52761339bbb8" />
 
+# The struggle :D
+
+<img width="300" height="451" alt="magica sketch" src="https://github.com/user-attachments/assets/e34f572c-b6a9-416a-8235-7a8676396310" />
+<img width="300" height="376" alt="wokwi copy" src="https://github.com/user-attachments/assets/e9036f90-599e-40e4-9701-1d23c33f0bd5" />
+<img width="300" height="854" alt="wokwi 2 gahh" src="https://github.com/user-attachments/assets/28181d82-24ed-4502-98e9-52761339bbb8" />
