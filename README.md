@@ -26,7 +26,7 @@ Initially added (later removed because we couldn't get it to work ;-;)
 
 ## Wiring
 
-<img width="100" height="285" alt="wokwi 2 gahh" src="https://github.com/user-attachments/assets/28181d82-24ed-4502-98e9-52761339bbb8" />
+<img width="150" height="428" alt="wokwi 2 gahh" src="https://github.com/user-attachments/assets/28181d82-24ed-4502-98e9-52761339bbb8" />
 
 # The struggle :D
 
