@@ -11,3 +11,5 @@ Unfortunately, even after working for several hours straight, we were unable to 
 A staffember did come up with us in the end, and he helped us make the project light up again, so it can do that.
 
 For outpost, we're thinking of using the 3D-printed wands we have, and we're gonna make some software that allows people to use the wands for a photobooth of sorts.
+
+In the future, I will take care to acknowledge the time-constraints we have. This evenr has taught me so much anout hardware, and I am glad to have experienced it.
