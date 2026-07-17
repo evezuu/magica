@@ -13,3 +13,13 @@ A staff member did help us make the project light up again, so it can do that st
 For outpost, we're thinking of using the 3D-printed wands we have, and we're gonna make some software that allows people to use the wands for a photobooth of sorts.
 
 In the future, I will take care to acknowledge the time-constraints we have. This event has taught me so much anout hardware, and I am glad to have experienced it.
+
+## Bill of Materials
+
+- Orpheus Pico
+- 3V Coin Batteries
+- WS2812B LED Strip
+
+Initially added (later removed because we couldn't get it to work ;-;)
+- BMI160 IMU 
+- 12mm Push Button
